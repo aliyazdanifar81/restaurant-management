@@ -1,4 +1,3 @@
-//in the name of god
 #include <iostream>
 #include <string>
 #include <cstdlib>
